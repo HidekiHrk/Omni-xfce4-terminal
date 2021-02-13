@@ -14,4 +14,4 @@ Rocketseat Omni unnoficial theme for Xfce4-terminal
 ![Example](https://raw.githubusercontent.com/HidekiHrk/Omni-xfce4-terminal/main/screenshot.png)
 
 
-*Obs: This theme is based on Omni theme created by Rocketseat. Omni official organization: @getomni*
+*Obs: This theme is based on Omni theme created by Rocketseat. Omni official organization: [@getomni](https://github.com/getomni)*
